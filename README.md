@@ -19,7 +19,8 @@ N'hésitez pas à contribuer !
 * [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
-* [insee](https://inseefr.github.io/R-Insee-Data/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
+* [happign](https://github.com/paul-carteron/happign) par @[paul-carteron](https://github.com/paul-carteron) : accéder aux données exposées par l'IGN via leurs API REST. 
+* [insee](https://inseefr.github.io/R-Insee-Data/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee.
 * [inseeLocalData](https://github.com/InseeFrLab/inseeLocalData) : client R pour l'[API Données Locales](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=DonneesLocales&version=V0.1&provider=insee) de l'Insee.
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
@@ -77,6 +78,7 @@ Autres ressources pédagogiques :
 
 ### :scroll: Slides de conférences :scroll:
 
+* [{torch} {tabnet} et l’apprentissage profond par l’usage - Rencontres R (FR)](https://cregouby.github.io/Tutoriel_torch_slides/) - @cregouby, Rencontres R 2025, Mons
 * [Les SIG et la cartographie avec R - Rencontres R (FR)](https://github.com/statnmap/prez/blob/master/2018-07-06_RR2018_Statnmap.pdf) - @statnmap, Rencontres R 2018, Rennes
 * [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018  
 * [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club  
